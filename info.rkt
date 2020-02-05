@@ -8,7 +8,7 @@
           (colors
            .
            ((framework:basic-canvas-background
-             #(#x22 #x22 #x22))
+             #(#x1F #x1F #x1F))
             (framework:default-text-color
              #(#xFF #xFF #xFF))
             (framework:misspelled-text-color
@@ -68,7 +68,7 @@
           (colors
            .
            ((framework:basic-canvas-background
-             #(#x22 #x22 #x22))
+             #(#x1F #x1F #x1F))
             (framework:default-text-color
              #(#xFF #xFF #xFF))
             (framework:misspelled-text-color
