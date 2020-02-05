@@ -62,7 +62,7 @@
              #(#x60 #xCC #x21))
             (framework:syntax-color:scheme:parenthesis
              #(#x18 #xB1 #x18) bold)))
-          (name . "Dark Green - blue style"))
+          (name . "Dark Green - blue Jaron"))
 
     #hash((white-on-black-base? . #t)
           (colors
@@ -122,4 +122,4 @@
              #(#x60 #xCC #x21))
             (framework:syntax-color:scheme:parenthesis
              #(#x18 #xB1 #x18) bold)))
-          (name . "Dark Green - orange style"))))
+          (name . "Dark Green - Jaron style"))))
