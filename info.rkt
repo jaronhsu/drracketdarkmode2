@@ -49,7 +49,7 @@
             (framework:syntax-color:scheme:text
              #(#xFF #xFF #xFF)) ; What color to use?
             (framework:syntax-color:scheme:comment
-             #(#x88 #xB0 #xE0))
+             #(#x40 #xC0 #xF0))
             (framework:syntax-color:scheme:symbol
              #(#xE3 #xE3 #xE3))
             (framework:syntax-color:scheme:keyword
