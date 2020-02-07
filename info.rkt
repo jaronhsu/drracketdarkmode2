@@ -53,7 +53,7 @@
             (framework:syntax-color:scheme:symbol
              #(#xE3 #xE3 #xE3))
             (framework:syntax-color:scheme:keyword
-             #(#xAA #xAA #xAA) bold)
+             #(#xFF #xA3 #x2B) bold)
             (framework:syntax-color:scheme:constant
              #(#x00 #xCC #xFF))
             (framework:syntax-color:scheme:string
